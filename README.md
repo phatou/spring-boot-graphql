@@ -10,7 +10,7 @@ https://www.javadevjournal.com/spring-boot/spring-boot-graphql/
 
 you can run the application using ./mvnw spring-boot:run. Or you can build the JAR file with ./mvnw clean package. Then you can run the JAR file:
 
-java -jar target/gs-messaging-stomp-websocket-0.1.0.jar
+java -jar target/spring-boot-graphql-0.1.0.jar
 
 Now that the service is running, point your browser at http://localhost:8080/graphiql
 
